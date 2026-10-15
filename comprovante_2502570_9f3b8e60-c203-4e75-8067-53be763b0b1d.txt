@@ -1,0 +1,19 @@
+════════════════════════════════════════════════════════
+        COMPROVANTE DE ENTREGA - IMPACTA
+════════════════════════════════════════════════════════
+
+  ID de Comprovação: 9f3b8e60-c203-4e75-8067-53be763b0b1d
+  Data/Hora:         14/10/2026, 22:13:59
+  Aluno:             Marcos Henrique Petruci
+  RA:                2502570
+  Atividade:         AST11
+  Status:            No Prazo
+
+────────────────────────────────────────────────────────
+  Referência: https://github.com/Petrucii/BDD
+────────────────────────────────────────────────────────
+
+  Este documento é a prova oficial de sua entrega eletrônica.
+  Autenticação: 9f3b8e60-c203-4e75-8067-53be763b0b1d-2502570
+
+════════════════════════════════════════════════════════
